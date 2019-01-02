@@ -6,6 +6,9 @@
 
 This research project was done during the Spring of 2016 with Dr. Shandong Wu [Lab Page](http://www.radiology.pitt.edu/profile-detail.html?profileID=906) as part of the University of Pittsburgh program [First Experiences in Research](https://www.asundergrad.pitt.edu/research/fer). The purpose of the project was to use Bioimaging Informatics techniques along with Machine Learning techniques such as Fuzzy C-means Clustering (FCM) and Support Vector Machine (SVM) Segmentation to ultimately improve breast cancer risk detection. This was using mammographic images and running them through software in a MatLab environment. 
 
+**Files**
+
+
 `First Experiences in Research Symposium Poster.png` 
 
 This is the final poster that was presented at the research symposium for the First Experiences in Research (link above) program. 
